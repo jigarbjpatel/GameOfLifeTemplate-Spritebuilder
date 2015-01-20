@@ -352,7 +352,7 @@
 										<key>displayName</key>
 										<string>CCLabelTTF</string>
 										<key>memberVarAssignmentName</key>
-										<string></string>
+										<string>_populationLabel</string>
 										<key>memberVarAssignmentType</key>
 										<integer>1</integer>
 										<key>properties</key>
@@ -372,9 +372,9 @@
 												<string>Position</string>
 												<key>value</key>
 												<array>
-													<real>43</real>
-													<real>275</real>
-													<integer>0</integer>
+													<real>44</real>
+													<real>17</real>
+													<integer>1</integer>
 													<integer>0</integer>
 													<integer>0</integer>
 												</array>
@@ -579,8 +579,8 @@
 												<string>Position</string>
 												<key>value</key>
 												<array>
-													<real>43</real>
-													<real>275</real>
+													<real>47</real>
+													<real>56</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -786,8 +786,8 @@
 												<string>Position</string>
 												<key>value</key>
 												<array>
-													<real>43</real>
-													<real>275</real>
+													<real>44</real>
+													<real>40</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -984,7 +984,7 @@
 												<key>type</key>
 												<string>StringSimple</string>
 												<key>value</key>
-												<string></string>
+												<string>Generation Label</string>
 											</dict>
 											<dict>
 												<key>name</key>
@@ -993,8 +993,8 @@
 												<string>Position</string>
 												<key>value</key>
 												<array>
-													<real>43</real>
-													<real>275</real>
+													<real>46</real>
+													<real>32</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -1008,7 +1008,7 @@
 												<key>value</key>
 												<array>
 													<real>0.5</real>
-													<real>0.5</real>
+													<real>1.05908203125</real>
 												</array>
 											</dict>
 											<dict>
@@ -1167,6 +1167,8 @@
 												</array>
 											</dict>
 										</array>
+										<key>selected</key>
+										<true/>
 									</dict>
 								</array>
 								<key>customClass</key>
@@ -1595,8 +1597,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
